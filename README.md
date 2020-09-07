@@ -1,0 +1,1 @@
+This is ShockEMP's first git project!
